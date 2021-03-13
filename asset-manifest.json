@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ethereum-tools/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ethereum-tools/static/js/main.61cf176b.chunk.js",
+    "main.js.map": "/ethereum-tools/static/js/main.61cf176b.chunk.js.map",
+    "runtime-main.js": "/ethereum-tools/static/js/runtime-main.fb237751.js",
+    "runtime-main.js.map": "/ethereum-tools/static/js/runtime-main.fb237751.js.map",
+    "static/js/2.158a7bdf.chunk.js": "/ethereum-tools/static/js/2.158a7bdf.chunk.js",
+    "static/js/2.158a7bdf.chunk.js.map": "/ethereum-tools/static/js/2.158a7bdf.chunk.js.map",
+    "static/js/3.9dfda89d.chunk.js": "/ethereum-tools/static/js/3.9dfda89d.chunk.js",
+    "static/js/3.9dfda89d.chunk.js.map": "/ethereum-tools/static/js/3.9dfda89d.chunk.js.map",
+    "index.html": "/ethereum-tools/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ethereum-tools/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.158a7bdf.chunk.js.LICENSE.txt": "/ethereum-tools/static/js/2.158a7bdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb237751.js",
+    "static/js/2.158a7bdf.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.61cf176b.chunk.js"
+  ]
+}
